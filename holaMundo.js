@@ -11,3 +11,6 @@ console.log("FIX: slider tablet");
 //GIT SWITCH RAMA-HIJA 
 // GIT MERGE RAMA-MADRE 
 
+console.log("hola mundo jaja");
+
+console.log("chau");
